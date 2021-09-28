@@ -1,0 +1,1 @@
+cd "c:\Users\User\Desktop\New folder\" ; if ($?) { g++ e1.cpp -o e1 } ; if ($?) { .\e1 }
