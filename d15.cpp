@@ -11,6 +11,7 @@ class node{
 	{
       data = val;
 	  next = NULL;
+	//   next = NULL;
 	}
 
 	};
