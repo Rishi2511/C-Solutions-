@@ -28,6 +28,7 @@ class node{
 		node* temp=head; //starting the iteration (iterating through a pointer)
 		while(temp->next!=NULL)
 		{
+			// temp=temp->next;
 			temp=temp->next;
 		}
 		temp->next=n;
