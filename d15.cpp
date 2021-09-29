@@ -22,6 +22,7 @@ class node{
 		if(head==NULL)
 		{
 			head=n;
+			// head=n;
 			
 			return;
 		}
