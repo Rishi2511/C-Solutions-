@@ -25,6 +25,7 @@ class node{
 			// head=n;
 			
 			return;
+			// return;
 		}
 
 		node* temp=head; //starting the iteration (iterating through a pointer)
