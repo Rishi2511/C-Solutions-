@@ -21,6 +21,7 @@ class node{
 		if(head==NULL)
 		{
 			head=n;
+			// ascd
 			return;
 		}
 
